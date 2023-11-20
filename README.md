@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pursuing MS in Computer Science at the University of Maryland, Baltimore County. Currently investing time in studying and implementing robust, and scalable distributed systems. Experienced Software Engineer with a demonstrated history of working in the tech industry for over 2.5 years. Skilled in Software Engineering, Distributed Systems, and Computer Vision as well as C/C++, Python, Java, and Javascript programming languages. Actively searching for Full-Time Software Engineer roles.
+Pursuing MS in Computer Science at the University of Maryland, Baltimore County. Currently investing time in studying and implementing robust, and scalable distributed systems. Experienced Software Engineer with a demonstrated history of working in the tech industry. Skilled in Software Engineering, Distributed Systems, and Computer Vision as well as C/C++, Python, Java, and Javascript programming languages. Actively searching for Full-Time Software Engineer roles.
 
 
 ## 🌐 Socials:
